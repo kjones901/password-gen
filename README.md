@@ -1,7 +1,5 @@
 # Password Generator
 
-# Password Generator
-
 ## The purpose of this assignment was to write javascript code that allows a user to generate a password with specific character types that the user specifies with window prompts. 
 
 This challange expanded my javascript understanding and helped solidify what I have been learning in class.
