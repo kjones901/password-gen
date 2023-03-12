@@ -8,3 +8,5 @@ Screen Shot:
 ![Alt text](/assets/screenshot.png?raw=true "Screen Shot")
 
 https://kjones901.github.io/password-gen/
+
+Made in Collaboration with Josh Davis and Carly Staheli.
